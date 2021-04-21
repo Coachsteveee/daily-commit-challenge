@@ -1,3 +1,3 @@
 # daily-commit-challenge
-challenge from UESTCpretty self explanatory
+challenge from UESTC pretty self explanatory
 
